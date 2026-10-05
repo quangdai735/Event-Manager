@@ -1,0 +1,18 @@
+BG_COLOR = "#f0f2f5"
+PRIMARY = "#1877f2"
+SUCCESS = "#42b72a"
+DANGER = "#e74c3c"
+CARD = "#ffffff"
+BG_COLOR = "#f0f2f5"
+PRIMARY = "#1877f2"
+PRIMARY_HOVER = "#166fe5"
+SUCCESS = "#42b72a"
+SUCCESS_HOVER = "#36a420"
+DANGER = "#e74c3c"
+DANGER_HOVER = "#c0392b"
+CARD = "#ffffff"
+
+# Màu sắc mới cho bảng danh sách
+ROW_EVEN = "#ffffff"
+ROW_ODD = "#f8f9fa"
+ROW_SELECTED = "#e7f3ff"
